@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Angular, Springboot, Neural Networks**
 
-- 👨‍💻 All of my projects are available at [https://udaraishan.github.io/My_Portfolio/?fbclid=IwAR3G89fenx4desuAGqezx7wT0CsJ_h3Ex-GaHGpR8oR4BTUYiQcAVm9bsCw](https://udaraishan.github.io/My_Portfolio/?fbclid=IwAR3G89fenx4desuAGqezx7wT0CsJ_h3Ex-GaHGpR8oR4BTUYiQcAVm9bsCw)
+- 👨‍💻 All of my projects are available at [My_Portfolio](https://udaraishan.github.io/My_Portfolio)
 
 - 📫 How to reach me **ishanembawa.x@gmail.com**
 
